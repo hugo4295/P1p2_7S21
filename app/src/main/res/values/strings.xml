@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P1p2_7S21</string>
+    <string name="p1titulo">Selectores</string>
+    <string name="Genero">Tipo de Genero</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="binario">No Binario</string>
+    <string name="verifica">Verifica</string>
+    <string name="internet">Donde usas Internet?</string>
+    <string name="icasa">Casa</string>
+    <string name="iescuela">Escuela</string>
+    <string name="ipublico">Lugares Publicos</string>
+    <string name="verificac">Verifica caja</string>
+    <string name="cargar">Cargar Imagen</string>
+    <string name="describe">Descripcion de la imagen</string>
+</resources>
